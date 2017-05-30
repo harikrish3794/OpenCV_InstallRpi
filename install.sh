@@ -3,7 +3,6 @@ sudo apt-get --assume-yes update
 sudo apt-get --assume-yes upgrade
 
 echo "Updating Rpi Firmware"
-sudo rpi-update
 
 cd ~
 echo "Downloading Files"
